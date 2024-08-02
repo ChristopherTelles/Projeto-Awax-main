@@ -1,2 +1,3 @@
 # Projeto-Awax.io
- desenvolvimento de habilidades iniciais
+ Projeto desenvolvido para fins didáticos.
+ https://christophertelles.github.io/Projeto-Awax.io/
